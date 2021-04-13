@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "read me generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node your-script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtm5169/README-Generator.git"
+  },
+  "author": "Daisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtm5169/README-Generator/issues"
+  },
+  "homepage": "https://github.com/dtm5169/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
